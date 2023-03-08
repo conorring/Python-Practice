@@ -22,8 +22,9 @@ while True:
     else:
         maximum=int((maximum+minimum)/2)
 
-print('I took',guesses,'guesses. Not bad.')
-input=('Press enter to exit')
+print("I took",guesses,"guesses. Not bad.")
+
+input=("Press enter to exit.")
 
 
 
