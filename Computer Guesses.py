@@ -24,7 +24,7 @@ while True:
 
 print("I took",guesses,"guesses. Not bad.")
 
-input=("Press enter to exit.")
+input("Press enter to exit.")
 
 
 
